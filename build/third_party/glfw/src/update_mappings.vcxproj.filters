@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\build\CMakeFiles\476809520db7aaf2dae2d3082c72eb1b\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\glfw\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\glfw\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\glfw\CMake\GenerateMappings.cmake" />
+    <None Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\build\third_party\glfw\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F8CE7F34-CDE8-3411-9C32-32AE9F4BD9C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{AF01A0E5-7D11-34F9-9889-6E271127AC0A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

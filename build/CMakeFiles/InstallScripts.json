@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/DataVisuliser/Real-Time-Stock-Market-Data-Visualizer/build/cmake_install.cmake",
+		"E:/DataVisuliser/Real-Time-Stock-Market-Data-Visualizer/build/third_party/glfw/cmake_install.cmake",
+		"E:/DataVisuliser/Real-Time-Stock-Market-Data-Visualizer/build/third_party/glfw/src/cmake_install.cmake",
+		"E:/DataVisuliser/Real-Time-Stock-Market-Data-Visualizer/build/third_party/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

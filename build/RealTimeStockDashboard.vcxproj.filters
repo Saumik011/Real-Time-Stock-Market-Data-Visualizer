@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\src\ChartRenderer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\src\StockFetcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\src\UI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\imgui\imgui.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\imgui\imgui_draw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\imgui\imgui_tables.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\imgui\imgui_widgets.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\imgui\imgui_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\imgui\backends\imgui_impl_glfw.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\imgui\backends\imgui_impl_opengl3.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\implot\implot.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\implot\implot_items.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\third_party\implot\implot_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\DataVisuliser\Real-Time-Stock-Market-Data-Visualizer\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{31AC20F5-737F-32AE-9410-C453D429AD9B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
